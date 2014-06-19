@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2010)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis_tjp.aux
+A level-1 auxiliary file: Ch1/ch1.aux
+The style file: apj.bst
+Database file #1: thesis_bib.bib
+Warning--I didn't find a database entry for "IRAS_supp"
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+You've used 133 entries,
+            3010 wiz_defined-function locations,
+            1486 strings with 63095 characters,
+and the built_in function-call counts, 82816 in all, are:
+= -- 5228
+> -- 9138
+< -- 47
++ -- 3024
+- -- 3177
+* -- 8513
+:= -- 16573
+add.period$ -- 133
+call.type$ -- 133
+change.case$ -- 834
+chr.to.int$ -- 141
+cite$ -- 133
+duplicate$ -- 2530
+empty$ -- 3673
+format.name$ -- 3345
+if$ -- 15496
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 127
+newline$ -- 403
+num.names$ -- 536
+pop$ -- 924
+preamble$ -- 1
+purify$ -- 830
+quote$ -- 0
+skip$ -- 2095
+stack$ -- 0
+substring$ -- 2739
+swap$ -- 37
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1185
+warning$ -- 0
+while$ -- 482
+width$ -- 0
+write$ -- 1331
+(There was 1 warning)

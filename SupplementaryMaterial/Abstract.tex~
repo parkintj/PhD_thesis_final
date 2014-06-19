@@ -1,0 +1,77 @@
+\thispagestyle{fancy}
+
+\textrm{}\\\\
+\noindent\textbf{\huge\textsf{Abstract}}\\\\
+
+\noindent In this thesis, we present theoretical and statistical
+techniques broadly related to systems of dynamically-interacting
+particles.  We apply these techniques to observations of dense 
+star clusters in order to study gravitational interactions between
+stars.  These include both long- and short-range interactions, as well
+as encounters leading to direct collisions and mergers.  The latter
+have long been suspected to be an important formation channel for
+several curious types of stars whose origins are unknown.  The former
+drive the structural evolution of star clusters and, by leading to
+their eventual dissolution and the subsequent dispersal of their
+stars throughout the Milky Way Galaxy, have played an important role
+in shaping its history.  Within the last few decades, theoretical work
+has painted a comprehensive picture for the evolution of star
+clusters.  And yet, we are still lacking direct observational
+confirmation that many of the processes thought to be driving this
+evolution are actually occuring.  The results presented in
+this thesis have connected several of these processes to real
+observations of star clusters, in many cases for the first time.  This
+has allowed us to directly link the observed
+properties of several peculiar stellar populations to the physical
+processes responsible for their origins.
+%  Given the importance of star
+%clusters for stellar birthing, this also represents a key step toward
+%re-constructing the history of our Galaxy.
+
+We present a new method of quantifying the frequency of encounters
+involving single, binary and triple stars using an adaptation of the
+classical mean free path approximation.  With this technique, we have
+shown that dynamical encounters involving triple stars occur commonly
+in star clusters, and that they are likely to be an important
+dynamical channel 
+for stellar mergers to occur.  This is a new result that has important
+implications for the origins of several peculiar types of stars (and
+binary stars), in
+particular blue stragglers.  We further present several new
+statistical techniques that are broadly applicable to systems of
+dynamically-interacting particles composed of several different types
+of populations.  These are applied to observations of star clusters in
+order to obtain quantitative constraints for the degree to 
+which dynamical interactions affect the relative sizes and spatial
+distributions of their different stellar populations.  To this end, 
+we perform an extensive analysis of a large sample of colour-magnitude
+diagrams taken from the ACS Survey for Globular Clusters.  The results
+of this analysis can be summarized as follows:  (1) We have compiled a
+homogeneous catalogue of stellar populations, including main-sequence,
+main-sequence turn-off, red giant branch, horizontal branch and blue
+straggler stars.  (2) With this catalogue, we have quantified the
+effects of the cluster dynamics in determining the relative sizes
+and spatial distributions of these stellar populations.  (3) These
+results are particularly interesting for blue stragglers since they
+provide compelling evidence that they are descended from binary stars.
+(4) Our analysis of the main-sequence populations is consistent with 
+a remarkably universal initial stellar mass function in old massive
+star clusters in the Milky Way.  This is a new result with 
+important implications for our understanding of star formation in the
+early Universe and, 
+more generally, the history of our Galaxy.  Finally, we describe how
+the techniques presented in this thesis are ideally suited for
+application to a number of other outstanding puzzles of modern
+astrophysics, including chemical reactions in the interstellar medium
+and mergers between galaxies in galaxy clusters and groups.  
+%These include the role
+%played by the coagulation of dust grains in the interstellar medium
+%in the early stages of both star and planet formation, as well as
+%the importance of mergers and collisions between galaxies for
+%understanding their morphologies.  
+
+
+\newpage
+\thispagestyle{empty}
+\mbox{}
+%to get the Dedication of the right-hand side
